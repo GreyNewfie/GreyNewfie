@@ -8,12 +8,11 @@ I'm currently an account manager with the goal of becoming a software developer.
 in the Get Coding program and have just pusblised my first project Hero's Log, a character and quest tracking app
 for players of the board game HeroQuest.
 
-### 📫 How to reach me
- - [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
-
 ### 💻 Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
 
+### 📫 How to reach me
+ - [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
 
 ### 🛠 Technologies I've worked with
  - Vanilla JS
