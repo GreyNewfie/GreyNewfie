@@ -9,10 +9,10 @@ in the Get Coding program and have just pusblised my first project Hero's Log, a
 for players of the board game HeroQuest.
 
 ### 📫 How to reach me
-    - [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
+       * [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
 
 ### 💻 Projects
-    - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
+       * [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
 
 
 ### 🛠 Technologies I've worked with
