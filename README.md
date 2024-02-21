@@ -1,23 +1,23 @@
 # Hey 👋, I'm Danny Simms
 
-### I'm an aspiring full stack software developer
+## I'm an aspiring full stack software developer from St. John's, Newfoundland
 
-## 🤔 About me
+### 🤔 About me
 
-I'm an account manager in St. John's, Newfoundland, aiming to become a software developer. I'm currently enrolled
+I'm currently an account manager with the goal of becoming a software developer. I'm currently enrolled
 in the Get Coding program and have just pusblised my first project Hero's Log, a character and quest tracking app
 for players of the board game HeroQuest.
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
 
-## 💻 Projects
+### 💻 Projects
 
-[Hero's Log - HeroQuest Companion App](url)
+[Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
 
 
-## 🛠 Technologies I've worked with
+### 🛠 Technologies I've worked with
 
 Vanilla JS
 HTML
