@@ -1,4 +1,4 @@
-# Hey 👋, I'm Danny Simms
+# Hey 👋, I'm Danny Simms!
 
 ## I'm an aspiring full stack software developer from St. John's, Newfoundland
 
