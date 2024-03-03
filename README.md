@@ -5,9 +5,9 @@
 ### 🤔 About me
 
 I'm currently an account manager with the goal of becoming a software developer. I started working in the tech sector 2 years ago,
-and it inspired me to pursue a more technical role and career change. I've always had a passion for technology and began exploring 
-and learning more about web development and coding. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program
-and have just pusblised my first project Hero's Log, a character and quest tracking app for players of the board game HeroQuest.
+and it inspired me to pursue a more technical role and career change. I began exploring and learning more about web development and 
+coding. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program and have pusblised my first project Hero's Log,
+a character and quest tracking app for players of the board game HeroQuest.
 
 ### 💻 Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
