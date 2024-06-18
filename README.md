@@ -16,9 +16,12 @@ a character and quest tracking app for players of the board game HeroQuest.
  - [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
 
 ### 🛠 Technologies I've worked with
- - Vanilla JS
+ - React
+ - Javascript
  - HTML
  - CSS
+ - Material UI
+ - Bootstrap
 
 
 
