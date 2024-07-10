@@ -4,9 +4,10 @@
 
 ### 🤔 About me
 
-I'm currently an account manager with the goal of becoming a software developer. I started working in the tech sector 2 years ago,
-and it inspired me to pursue a more technical role and career change. I began exploring and learning more about web development and 
-coding. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program and have pusblised my first project Hero's Log,
+I'm an account manager with the goal of becoming a software developer. I started working in the tech sector 2 years ago,
+and it inspired me to pursue a more technical role and a career change. I began exploring and learning more about web development and 
+coding in my spare time. I enjoyed creating and learning new things so much I decided to take it more seriously pursue my lifelong passion
+for technology. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program and have pusblised my first project Hero's Log,
 a character and quest tracking app for players of the board game HeroQuest.
 
 ### 💻 Projects
@@ -23,7 +24,8 @@ a character and quest tracking app for players of the board game HeroQuest.
  - Material UI
  - Bootstrap
 
-(https://github-readme-stats.vercel.app/api?username=greynewfie)](https://github.com/anuraghazra/github-readme-stats)
+
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=greynewfie&show_icons=true)
 
 <!--
 **GreyNewfie/GreyNewfie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
