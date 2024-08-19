@@ -12,6 +12,7 @@ and have pusblised my first project, Hero's Log, a character and quest tracking 
 
 ### 💻 Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
+- [WizPool - Wins Pool Tracker](https://greynewfie.github.io/wizpool-app/)
 
 ### 📫 How to reach me
  - [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
@@ -23,6 +24,7 @@ and have pusblised my first project, Hero's Log, a character and quest tracking 
  - CSS
  - Material UI
  - Bootstrap
+ - Tailwind CSS
 
 
 [![Danny's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=greynewfie&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
