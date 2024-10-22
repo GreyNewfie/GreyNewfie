@@ -15,7 +15,7 @@ and have pusblised my first project, Hero's Log, a character and quest tracking 
 - [WizPool - Wins Pool Tracker](https://greynewfie.github.io/wizpool-app/)
 
 ### 📫 How to reach me
- - [LinkedIn](www.linkedin.com/in/danny-simms-2a14631a4)
+ - [LinkedIn](https://www.linkedin.com/in/danny-simms-2a14631a4/)
 
 ### 🛠 Technologies I've worked with
  - React
