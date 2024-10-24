@@ -8,11 +8,14 @@ As an account manager, I've always harbored a lifelong passion for technology. T
 and this experience inspired me to pursue a more technical role and make a career change. I began exploring web development and 
 coding in my spare time, and it quickly affirmed how much I enjoy creating and learning new things. This excitement drove me to take 
 my passion more seriously. and pursue a career change. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program 
-and have pusblised my first project, Hero's Log, a character and quest tracking app for players of the board game HeroQuest.
+and have completed two projects, Hero's Log and WizPool. I've al
 
-### 💻 Projects
+### 💻 Personal Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
 - [WizPool - Wins Pool Tracker](https://greynewfie.github.io/wizpool-app/)
+
+### 👥 Group Projects
+- [Beer Scout - Beer Price App](https://beerscout.ca)
 
 ### 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/danny-simms-2a14631a4/)
@@ -25,6 +28,11 @@ and have pusblised my first project, Hero's Log, a character and quest tracking 
  - Material UI
  - Bootstrap
  - Tailwind CSS
+ - Typescript
+ - NodeJS
+ - Express
+ - SQL
+ - SQLite
 
 
 [![Danny's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=greynewfie&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
