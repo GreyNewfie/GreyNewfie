@@ -4,11 +4,12 @@
 
 ### 🤔 About me
 
-As an account manager, I've always harbored a lifelong passion for technology. Two years ago, I ventured into the tech sector, 
-and this experience inspired me to pursue a more technical role and make a career change. I began exploring web development and 
+I've always harbored an interest and passion for technology. Over two years ago I joined the tech sector as an account manager, 
+and this experience inspired me to pursue expanding my technical skills. I began exploring web development and 
 coding in my spare time, and it quickly affirmed how much I enjoy creating and learning new things. This excitement drove me to take 
 my passion more seriously. and pursue a career change. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program 
-and have completed two projects, Hero's Log and WizPool. I've al
+and have completed two projects, Hero's Log and WizPool. I'm currently working on finishing the last module of the program and learning more
+about backend development using NodeJS and SQL. Below you'll see more about the projects I've built and the technologies I've work with.
 
 ### 💻 Personal Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
