@@ -4,12 +4,12 @@
 
 ### 🤔 About me
 
-I've always harbored an interest and passion for technology. Over two years ago I joined the tech sector as an account manager, 
-and this experience inspired me to pursue expanding my technical skills. I began exploring web development and 
-coding in my spare time, and it quickly affirmed how much I enjoy creating and learning new things. This excitement drove me to take 
-my passion more seriously. and pursue a career change. I'm currently enrolled in the [Get Coding](https://www.getcoding.ca/) program 
-and have completed two projects, Hero's Log and WizPool. I'm currently working on finishing the last module of the program and learning more
-about backend development using NodeJS and SQL. Below you'll see more about the projects I've built and the technologies I've work with.
+I've always had a deep interest in technology, and two years ago, I joined the tech sector as an account manager. This experience ignited
+a desire to deepen my technical skills, leading me to explore web development and coding in my spare time. Creating projects and continuously 
+learning affirmed my passion for building software, driving me to pursue a full career change into software development. I'm currently completing 
+the [Get Building](https://get-building.ca/) program where I've completed two projects, Hero's Log and WizPool. I'm currently working on finishing 
+the program and expanding my backend skills with NodeJS and SQL. Below, you'll find details on the projects I’ve built and the technologies I’ve
+worked with.
 
 ### 💻 Personal Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
