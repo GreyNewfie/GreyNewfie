@@ -4,12 +4,7 @@
 
 ### 🤔 About me
 
-I've always had a deep interest in technology, and two years ago, I joined the tech sector as an account manager. This experience ignited
-a desire to deepen my technical skills, leading me to explore web development and coding in my spare time. Creating projects and continuously 
-learning affirmed my passion for building software, driving me to pursue a full career change into software development. I'm currently completing 
-the [Get Building](https://get-building.ca/) program where I've completed two projects, Hero's Log and WizPool. I'm currently working on finishing 
-the program and expanding my backend skills with NodeJS and SQL. Below, you'll find details on the projects I’ve built and the technologies I’ve
-worked with.
+I have a strong background in customer success, account management, and working with cross-functional team. Over the years, I’ve honed my skills in communication, strategic thinking, and building strong relationships—skills I now bring to my work in software development. I’m passionate about creating applications that solve real-world problems, leveraging my technical expertise and project management skills to deliver exceptional user experiences. Pursuing my passion for technology, I’ve built projects like Hero’s Log and WizPool, and I’m expanding my backend skills with Node.js and SQL. I’m excited to continue growing as a software developer and contributing to impactful projects.
 
 ### 💻 Personal Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
