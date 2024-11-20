@@ -4,7 +4,7 @@
 
 ### 🤔 About me
 
-I have a strong background in customer success, account management, and working with cross-functional team. Over the years, I’ve honed my skills in communication, strategic thinking, and building strong relationships—skills I now bring to my work in software development. I’m passionate about creating applications that solve real-world problems, leveraging my technical expertise and project management skills to deliver exceptional user experiences. Pursuing my passion for technology, I’ve built projects like Hero’s Log and WizPool, and I’m expanding my backend skills with Node.js and SQL. I’m excited to continue growing as a software developer and contributing to impactful projects.
+I have a strong background in customer success, account management, and working with cross-functional teams. Over the years, I’ve honed my skills in communication, strategic thinking, and building strong relationships—skills I now bring to my work in software development. I’m passionate about creating applications that solve real-world problems, leveraging my technical expertise and project management skills to deliver exceptional user experiences. Pursuing my passion for technology, I’ve built projects like Hero’s Log and WizPool, and I’m expanding my backend skills with Node.js and SQL. I’m excited to continue growing as a software developer and contributing to impactful projects.
 
 ### 💻 Personal Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
