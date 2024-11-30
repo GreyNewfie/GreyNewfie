@@ -1,6 +1,6 @@
 # Hey 👋, I'm Danny Simms!
 
-## I'm an aspiring full stack software developer from St. John's, Newfoundland
+## Full stack software developer from St. John's, Newfoundland
 
 ### 🤔 About me
 
