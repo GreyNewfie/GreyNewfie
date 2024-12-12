@@ -8,7 +8,7 @@ I have a strong background in customer success, account management, and working 
 
 ### 💻 Personal Projects
 - [Hero's Log - HeroQuest Companion App](https://greynewfie.github.io/heros-log/)
-- [WizPool - Wins Pool Tracker](https://greynewfie.github.io/wizpool-app/)
+- [WizPool - Wins Pool Tracker](wizpool-app.vercel.app)
 
 ### 👥 Group Projects
 - [Beer Scout - Beer Price App](https://beerscout.ca)
