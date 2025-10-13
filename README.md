@@ -4,13 +4,13 @@
 
 ### 🤔 About me
 
-I’m a software developer with a background in account management and customer success, so I care just as much about people and communication as I do about clean, effective code.
+I’m a software developer with a background in account management and customer success, so I care just as much about people and communication as I do about writing clean, effective code.
 
-I really enjoy interacting with people and learning how they use technology. That curiosity has led me to take on developer relations opportunities where I connect with users, gather feedback, and share insights with our team to improve the product. I also love helping demo our tools to other developers and seeing how they can make their work more efficient and enjoyable.
+I really enjoy connecting with people and learning how they use technology. That’s led me to take on some developer relations work where I chat with users, gather feedback, and bring their ideas back to the team. In my current work, I love that I get to show other developers what we’re building and helping them see how our tools can make their work easier.
 
-Most of my work has focused on the frontend, where I enjoy using JavaScript, TypeScript, and React to build clean, responsive interfaces. I’ve also contributed to backend tasks involving AWS services, Terraform, and DynamoDB, which has helped me better understand how the pieces of a product come together behind the scenes.
+Most of my day-to-day work is on the frontend, building clean and responsive interfaces with JavaScript, TypeScript, and React. I also get to dive into backend work now and then, using AWS services, Terraform, and DynamoDB, which has helped me understand how everything fits together behind the scenes.
 
-I’m a naturally curious person who loves collaborating, sharing ideas, and finding smart ways to solve problems with technology. Feel free to reach out to me!
+I’m curious by nature and love collaborating, learning new things, and building products that make a real difference for the people who use them. Feel free to reach out to me!
 
 ### 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/danny-simms-2a14631a4/)
