@@ -1,16 +1,14 @@
 # Hey 👋, I'm Danny.
 
-## Full stack software developer from St. John's, Newfoundland
+## Web developer from St. John's, Newfoundland
 
 ### 🤔 About me
 
-I’m a software developer with a background in account management and customer success, so I care just as much about people and communication as I do about writing clean, effective code.
+I build across the full stack while advocating for the developers who use our tools. My work involves shipping features and strengthening the loop between users and the product team.
 
-I really enjoy connecting with people and learning how they use technology. That’s led me to take on some developer relations work where I chat with users, gather feedback, and bring their ideas back to the team. In my current work, I love that I get to show other developers what we’re building and helping them see how our tools can make their work easier.
-
-Most of my day-to-day work is on the frontend, building clean and responsive interfaces with JavaScript, TypeScript, and React. I also get to dive into backend work now and then, using AWS services, Terraform, and DynamoDB, which has helped me understand how everything fits together behind the scenes.
-
-I’m curious by nature and love collaborating, learning new things, and building products that make a real difference for the people who use them. Feel free to reach out to me!
+- 🛠 Building: Full-stack features using JavaScript/TypeScript, React, and AWS infrastructure (Terraform).
+- 📣 Advocating: Serving as the bridge between engineering and our users through Developer Relations.
+- 💡 Focus: Clean code, responsive UI, and developer-centric product growth.
 
 ### 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/danny-simms-2a14631a4/)
