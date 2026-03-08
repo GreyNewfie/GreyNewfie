@@ -4,7 +4,7 @@
 
 ### 🤔 About me
 
-I build across the full stack while advocating for the developers who use our tools. My work involves shipping features and strengthening the loop between users and the product team.
+I build across the full stack while advocating for the developers who use our tools. My work involves shipping features and strengthening the loop between users and our product.
 
 - 🛠 Building: Full-stack features using JavaScript/TypeScript, React, and AWS infrastructure (Terraform).
 - 📣 Advocating: Serving as the bridge between engineering and our users through Developer Relations.
